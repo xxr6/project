@@ -3,7 +3,7 @@ import IO流.checkout;
 //来自邓佳戎的修改
 
 import java.util.Scanner;
-//来自许睿的修改
+//许睿追加冲突
 public class homework {
     private static final int OFFSET = 3;
     private static final int MAX_LENGTH = 16;
